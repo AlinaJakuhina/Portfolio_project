@@ -1,0 +1,58 @@
+.workList_title{
+    font-size: 30px;
+    font-weight: 700;
+    color:#21243D;
+    padding-bottom: 16px;
+}
+
+.works_list{
+    display: flex;
+    gap:20px;
+    border-bottom: 1px solid #E0E0E0;
+    padding-bottom: 15px;
+
+    padding: 40px 0;
+
+}
+
+.work_image img{
+    width: 246px;
+    height: 180px;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+.year{
+    font-size: 18px;
+    font-weight: 900;
+    background-color: #142850;
+    color: #fff;
+    border-radius: 16px;
+    padding: 0 10px;
+    line-height: 29px;
+
+    width: 62px;
+    height: 25px; 
+}
+
+.tag{
+    color: #8695A4;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.text{
+    color: #21243D;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.date_items{
+    display: flex;
+    gap: 36px;
+    padding-bottom: 20px;
+}
+
+.link_title{
+    text-decoration: none;
+}

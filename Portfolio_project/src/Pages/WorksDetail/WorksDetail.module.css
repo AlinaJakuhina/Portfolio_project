@@ -1,0 +1,62 @@
+.wrapper{
+    display: flex;
+    gap:20px;
+    padding: 40px 0;
+}
+
+.content_img{
+    width: 681px;
+    height: 460px;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+.year{
+    font-size: 18px;
+    font-weight: 900;
+    background-color: #FF7C7C;
+    color: #fff;
+    border-radius: 16px;
+    padding: 0 11px;
+    line-height: 29px;
+
+    width: 62px;
+    height: 25px; 
+}
+
+.tag{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 34px;
+}
+
+.text{
+    font-weight: 400;
+    font-size: 16px;
+}
+.content_text{
+    font-weight: 400;
+    font-size: 16px;
+    padding: 30px;
+}
+
+.content_title{
+    padding-top: 54px;
+
+    font-weight: 500;
+    font-size: 30px;
+    color: #21243D;
+}
+
+.content_h2{
+    padding-top: 20px;
+
+   color: #21243D;
+   font-weight: 500;
+   font-size: 24px;
+}
+

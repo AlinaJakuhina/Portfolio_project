@@ -1,0 +1,38 @@
+.post_wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px ;
+    
+}
+
+.post_background{
+    background: #EDF7FA;
+    
+}
+
+.posts_items{
+    display: flex;
+    gap: 30px;
+    
+}
+
+.link{ 
+    color: #00A8CC;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px;
+}
+
+.post_link{
+    text-decoration: none;
+}
+
+.title{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.posts{
+    background-color: white;
+    
+}
