@@ -45,3 +45,20 @@
    
 }
 
+@media (max-width: 1200px) {
+    .container{
+        padding: 0 25px;
+    }
+}
+
+@media (max-width: 670px) {
+    .container{
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+    .header_wrapper{
+        align-items: center;
+    }
+}
+

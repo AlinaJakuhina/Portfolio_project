@@ -56,3 +56,28 @@
 .link_title{
     text-decoration: none;
 }
+
+@media (max-width: 670px) {
+    .works_list {
+        padding: 0 25px;
+        display: flex;
+        flex-direction: column;
+
+        align-items: center;
+       
+    }
+    .title_item{
+        padding-bottom: 20px;
+        width: 540px;
+        height: 230px;
+        text-align: center;
+    }
+    .work_image{
+        padding: 20px;
+        text-align: center;
+    }
+    .date_items{
+        padding-left: 50px;
+        align-items: center;
+    }
+}

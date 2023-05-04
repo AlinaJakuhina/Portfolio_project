@@ -5,11 +5,12 @@ import { blog_data } from '../../data/data'
 import PostsContainer from '../../components/PostsContainer/PostsContainer'
 import Header from '../../components/Header/Header'
 import WorksContainer from '../../components/WorksContainer/WorksContainer'
-import WorkList from '../../components/WorkList/WorkList'
+
 
 
 
 function Home() {
+
   return (
     <div className={s.home}>
      <Header />

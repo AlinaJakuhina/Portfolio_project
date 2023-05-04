@@ -10,3 +10,9 @@
 .home{
     padding-bottom: 90px ;
 }
+
+@media (max-width: 670px) {
+    .works_title {
+        margin-left: 25px;
+    }
+}

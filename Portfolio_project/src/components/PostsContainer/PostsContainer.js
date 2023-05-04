@@ -31,7 +31,7 @@ function PostsContainer({ posts }) {
 
         <div className={s.posts_items} style={stylePosts}>
             {blog_data.slice(0, !posts ? posts.length : posts)
-                      .map((elem, index) => <Post className={s.posts}
+                      .map((elem, index) => <Post className={s.posts} 
                                                  {...elem} key={index}/>)}
         </div>  
      </div>

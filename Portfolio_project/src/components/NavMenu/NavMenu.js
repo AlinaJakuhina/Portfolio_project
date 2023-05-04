@@ -5,7 +5,7 @@ import s from './NavMenu.module.css'
 function NavMenu() {
   return (
     <div className={s.nav_menu}>
-        <Link to='/Home'> Home </Link>
+        <Link to='/'> Home </Link>
         <Link to='/Work'> Work </Link>
         <Link to='/Blog'> Blog </Link>
         <Link to='/Contact'> Contact </Link>
